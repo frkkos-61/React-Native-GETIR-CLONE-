@@ -10,7 +10,5 @@
 ✅ Derin Bağlantının Uygulanması
 ✅ EAS Build ile uygulama ikili dosyaları oluşturma...vb konular üzerinde çalışıldı</h4>
 
-
 <h3>Gif Dosyası eklendi</h3>
-# React-Native-GETIR-CLONE-
-# React-Native-GETIR-CLONE-
+![](tanıtım.gif)
